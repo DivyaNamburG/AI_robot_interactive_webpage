@@ -46,7 +46,6 @@ Steps followed to detect lanes and mark them are-
 OpenCV works on HSV colour standards.
 
 ![](img/2.png)
-
 ![](img/3.png)
 
 Intelligent Steering
@@ -60,6 +59,11 @@ Steering is completely based on distance between the lanes. After the robot reco
 •	STEP 3: Indicate Left if the centre line tilts to right and indicate right if the centre line tilts to left.
         These indications are given as pulse to stepper motor driver.
 
+![](img/4.png)
+
+![](img/5.png)
+
+![](img/6.png)
 
 Components
 
