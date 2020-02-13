@@ -10,8 +10,11 @@ This project was mainly taken to reduce human work on silly tasks and promote au
 Drive links redirect to videos and presentation files.
 
 •	To design intelligent Robot Mobility.
+
 •	To implement Artificial Intelligence and Machine Learning algorithm.
+
 •	To implement sensors and smart vision system for human interaction.
+
 •	To record student data via dedicated camera. 
 
 
@@ -20,12 +23,19 @@ Building the Algorithm
 Steps followed to detect lanes and mark them are-
 
 •	Importing image
+
 •	Applying colour filters (to convert RGB to HSV)
+
 •	Converting to Grayscale (for easier edge detection)
+
 •	Applying Gaussian Blur (for smoothing edges)
+
 •	Applying mask algorithm (to black out unwanted objects)
+
 •	Applying Canny algorithm (to detect edges)
+
 •	Restricting vision strictly to lanes
+
 •	Applying Rough transform (to detect continuous lines)
 
 •	Importing image-
