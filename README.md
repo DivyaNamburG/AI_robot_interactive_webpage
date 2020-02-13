@@ -44,6 +44,11 @@ Steps followed to detect lanes and mark them are-
 •	Applying colour filters (to convert RGB to HSV)-
 OpenCV works on HSV colour standards.
 
+![](img/1.jpg)
+
+![](img/2.jpg)
+
+![](img/3.jpg)
 
 Intelligent Steering
 
